@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eryashsharma&label=Profile%20views&color=0e75b6&style=flat" alt="eryashsharma" /> </p>
 
-- 🔭 I’m currently working on **Weather Forcast**
-
-- 🌱 I’m currently learning **Framework-Hibernate**
-
-- 🤝 I’m looking for help with **Java**
-
-- 💬 Ask me about **Advanced Java | HTML & CSS**
+- 🔭 I’m currently working on **Data Science's Projects**
 
 - 📫 How to reach me **eryashsharmacsit@gmail.com**
 
